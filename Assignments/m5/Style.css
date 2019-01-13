@@ -1,0 +1,12 @@
+#cont {
+    background-color: white;
+    margin: 10px;
+    border-radius: 15px;
+}
+#hint, #RightAlert, #WrongAlert {
+    display: none;
+}
+
+#hint1 {
+    
+}
